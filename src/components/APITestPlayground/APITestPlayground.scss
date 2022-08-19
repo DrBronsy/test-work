@@ -1,0 +1,19 @@
+.api-test-playground {
+  &__code-mirror {
+    font-size: 14px;
+  }
+
+  &__controls {
+    padding: 20px 0;
+  }
+
+  &__code-area {
+    position: relative;
+  }
+
+  &__buttons {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+}
